@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="texto_nome">Digite o seu primeiro nome</string>
+</resources>
